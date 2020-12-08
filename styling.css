@@ -1,0 +1,139 @@
+
+#container {
+width: 1050px;
+border: 1px solid grey;
+height: 100px;
+margin: 0 auto;
+}
+#header{
+ height: 100px;
+padding: 10px 0;
+
+
+#brand{
+float: left;
+
+
+    h1 a{
+font-size: 50px;
+font-weight: 100;
+color:#861BBF;
+text-decoration: none;
+}
+
+#searchBox{
+float: right;
+background: linear-gradient(#E4F2B9 #87E953);
+width: 400px;
+height: 50px;
+padding: 20px 20px 0 20px;
+ margin-top: 20px;    
+  
+    .text{
+   
+float: left;
+width: 200px;
+padding: 5px;
+font-size: 15px;
+color: #E36A0C;
+background: white url(images/search.png) right center no-repeat;
+        
+        
+ .sumbit{
+ float: right;
+padding: 5px;
+font-weight: bold;
+color: white;
+background: #A751D6;
+font-size: 15px;
+        }
+
+ .clear{
+clear: both;
+}
+        
+
+#menu{
+height: 70px;
+background: linear-gradient(#F8F594,#D5D533);
+padding: 7px 0;   
+    
+ ul{
+list-style: none;
+     
+     
+ #menu ul li{
+float: left;
+padding: 0 30px;
+height: 20px;
+border-right: 1px solid #5d12e7;
+     
+    
+ #menu ul li: last-child{
+ border-right: none; 
+    
+
+#menu ul li a{
+text-decoration: none;
+text-transform: uppercase;
+font-size: 17px;
+color: #5d12e7;
+line-height: 30px;
+-webkit-transition: fornt-size 0.3s ease;
+-moz-transition: fornt-size 0.3s ease;
+-o-transition: fornt-size 0.3s ease;
+-ms-transition: fornt-size 0.3s ease;
+transition: fornt-size 0.3s ease;
+}
+
+#menu ul li a:hover,#menu ul li a.active{
+ font-size: 20px;
+font-weight: bold;
+color: #C34FDB;
+
+
+#introduction{
+background: linear-gradient(#E5F2BB, #B7E952);
+padding: 30px;
+margin: 16px 0;
+    
+    
+#introduction h3{
+font-size: 45px;
+color:#316901;
+font-weight: normal;
+]
+
+ #introductin p{
+font-size: 25px;
+color: #628F19;
+text-align: justify;
+     
+     
+.sidebar{
+ height: 500px;
+ width: 400px;
+ border:1px solid #BAF46F;
+border-radius: 20px;
+padding: 10px;
+    
+    
+    
+    
+    
+    
+    
+    .sidebar ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color;#5d12e7;
+        
+    
+    
+#leftsidebar{
+float:left;
+    
+    
+    #rightbar{
+    float: right;
+    }
